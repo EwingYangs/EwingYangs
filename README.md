@@ -5,8 +5,11 @@
 
 - 🥏 网名：依然范佩西，英文Ewing
 - 👏 博客：https://blog.notionedu.com
-- 🤙 推特/小红薯/即刻：依然范佩西Ewing，自律的小嘉同学（Notion栏目）
+- 🤙 媒体IP：
+     即刻/推特：依然范佩西Ewing
+     小红书：自律的小嘉同学（Notion栏目）
+     公众号：Notion概念指南
 - 🦄 C+轮教育独角兽（软银投资）开发经理
 - ⚡ 编程：Java / Python / PHP/爬虫逆向
-- 💰 副业独立开发（Notion插件开发方向），成为超级个体
+- 💰 副业独立开发（Notion插件开发方向，官网notionify.net）
 - 🏠 有一家京东文创店铺"古风今韵礼品小店"，https://mall.jd.com/index-12480626.html
