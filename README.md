@@ -11,5 +11,5 @@
      公众号：Notion概念指南
 - 🦄 C+轮教育独角兽（软银投资）开发经理
 - ⚡ 编程：Java / Python / PHP/爬虫逆向
-- 💰 副业独立开发（Notion插件开发方向，官网notionify.net）
+- 💰 副业独立开发（Notion插件开发方向，官网notionify.net，产品MemoHub：https://memohub.notionify.net，一款自动同步知识库的工具）
 - 🏠 有一家京东文创店铺"古风今韵礼品小店"，https://mall.jd.com/index-12480626.html
