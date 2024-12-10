@@ -3,13 +3,10 @@
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/hayschan)
 [![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://haysc.tech/feed.xml&style=flat-square)](https://haysc.tech/)
 
-- 🥏 网名：依然范佩西，英文Ewing
+- 🥏 网名：依然范佩西-Ewing
 - 👏 博客：https://blog.notionedu.com
 - 🤙 媒体IP：
      即刻/推特：依然范佩西Ewing
      小红书：自律的小嘉同学（Notion栏目）
      公众号：Notion概念指南
-- 🦄 C+轮教育独角兽（软银投资）开发经理
-- ⚡ 编程：Java / Python / PHP/爬虫逆向
-- 💰 副业独立开发（Notion插件开发方向，官网notionify.net，产品MemoHub：https://memohub.notionify.net，一款自动同步知识库的工具）
-- 🏠 有一家京东文创店铺"古风今韵礼品小店"，https://mall.jd.com/index-12480626.html
+- 🔑 产品MemoHub：https://memohub.notionify.net（自动同步各个平台的笔记/划线/收藏/帖子等到Notion数据库，统一在Notion管理，第二大脑的第一步）
