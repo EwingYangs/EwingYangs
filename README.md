@@ -9,5 +9,5 @@
      即刻/推特：依然范佩西Ewing
      小红书：自律的小嘉同学（Notion栏目）
      公众号：Notion概念指南
-- 🔑 产品NotesToNotion：https://memohub.notionify.net
+- 🔑 产品NotesToNotion：https://notes2notion.notionify.net
   （自动同步各个平台的笔记/划线/收藏/帖子等到Notion数据库，统一在Notion管理，第二大脑的第一步）
