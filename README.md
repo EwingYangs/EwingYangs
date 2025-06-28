@@ -6,8 +6,7 @@
 - 🥏 网名：自律小嘉同学
 - 👏 博客：https://blog.notionedu.com
 - 🤙 媒体IP：
-     - 即刻/推特：自律小嘉同学
-     - 小红书：自律的小嘉同学（Notion栏目）
+     - 小红书/即刻/推特：自律小嘉同学
      - 公众号：Notion概念指南（定期分享免费notion模版）
 - 🔑 产品NotesToNotion：https://notes2notion.notionify.net
   （自动同步各个平台的笔记/划线/收藏/帖子等到Notion数据库，统一在Notion管理，第二大脑的第一步）
