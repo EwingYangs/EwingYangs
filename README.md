@@ -8,5 +8,8 @@
 - 🤙 媒体IP：
      - 小红书/即刻/推特：自律小嘉同学
      - 公众号：Notion概念指南（定期分享免费notion模版）
-- 🔑 产品NotesToNotion：https://notes2notion.notionify.net
-  （自动同步各个平台的笔记/划线/收藏/帖子等到Notion数据库，统一在Notion管理，第二大脑的第一步）
+- NotionTranslator（https://templatestranslate.com）： Notion模版一键翻译
+- https://rednote.2notion.com -> 小红书同步到Notion
+- https://weread.2notion.com -> 微信读书同步到Notion
+- https://bilibili.2notion.com -> B站收藏同步到Notion
+- https://flomo.2notion.com -> flomo同步到Notion
