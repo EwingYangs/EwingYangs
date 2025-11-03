@@ -8,7 +8,7 @@
 - 🤙 媒体IP：
      - 小红书/即刻/推特：自律小嘉同学
      - 公众号：Notion概念指南（定期分享免费notion模版）
-- NotionTranslator（https://templatestranslate.com）： Notion模版一键翻译
+- NotionTranslator（Notion模版一键翻译）：https://templatestranslate.com
 - 国内最大Notion模版站（超过500+免费Notion模版）：https://www.notiontheme.com
 - 小红书同步到Notion：https://rednote.2notion.com
 - 微信读书同步到Notion：https://weread.2notion.com
