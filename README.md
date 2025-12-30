@@ -15,3 +15,4 @@
 - 微信读书同步到Notion：https://weread.2notion.com
 - B站收藏同步到Notion：https://bilibili.2notion.com
 - flomo同步到Notion：https://flomo.2notion.com
+- 小宇宙同步到Notion：https://xiaoyuzhou.2notion.com
