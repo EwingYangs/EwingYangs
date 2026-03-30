@@ -16,3 +16,4 @@
 - B站收藏同步到Notion：https://bilibili.2notion.com
 - flomo同步到Notion：https://flomo.2notion.com
 - 小宇宙同步到Notion：https://xiaoyuzhou.2notion.com
+- 推特同步到Notion：https://twitter.2notion.com
