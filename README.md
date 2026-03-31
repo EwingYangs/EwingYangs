@@ -6,9 +6,10 @@
 - 🥏 网名：自律小嘉同学
 - 👏 博客：https://blog.notionedu.com
 - 🤙 媒体IP：
-     - 小红书/即刻/推特：自律小嘉同学
+     - 小红书/即刻：自律小嘉同学
+     - 推特：https://x.com/YaseWings
      - 公众号：Notion概念指南（定期分享免费notion模版）
-- Clipno（Notion一键剪藏工具）：https://clipno.app
+- Clipno（Notion随时随地剪藏工具）：https://clipno.app
 - NotionTranslator（Notion模版一键翻译）：https://templatestranslate.com
 - 国内最大Notion模版站（超过500+免费Notion模版）：https://www.notiontheme.com
 - 小红书同步到Notion：https://rednote.2notion.com
